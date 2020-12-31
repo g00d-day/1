@@ -1,0 +1,1341 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.moderne-landwirtschaft.de/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://www.moderne-landwirtschaft.de';var et_post_id='0';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Moderne Landwirtschaft</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:title" content="Page not found - Moderne Landwirtschaft" />
+	<meta property="og:site_name" content="Moderne Landwirtschaft" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.moderne-landwirtschaft.de/#organization","name":"Forum Moderne Landwirtschaft","url":"https://www.moderne-landwirtschaft.de/","sameAs":["https://www.facebook.com/moderne.landwirtschaft","https://www.instagram.com/modernelandwirtschaft/","https://www.linkedin.com/company/36580076/admin/","https://www.youtube.com/channel/UC8wXxh1JkkMtXA4ZOsA7h6A"],"logo":{"@type":"ImageObject","@id":"https://www.moderne-landwirtschaft.de/#logo","inLanguage":"de-DE","url":"https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/12/Logo-quadrat.jpg","width":400,"height":400,"caption":"Forum Moderne Landwirtschaft"},"image":{"@id":"https://www.moderne-landwirtschaft.de/#logo"}},{"@type":"WebSite","@id":"https://www.moderne-landwirtschaft.de/#website","url":"https://www.moderne-landwirtschaft.de/","name":"Moderne Landwirtschaft","description":"","publisher":{"@id":"https://www.moderne-landwirtschaft.de/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.moderne-landwirtschaft.de/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"de-DE"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Moderne Landwirtschaft  &raquo; Feed" href="https://www.moderne-landwirtschaft.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Moderne Landwirtschaft  &raquo; Kommentar-Feed" href="https://www.moderne-landwirtschaft.de/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.moderne-landwirtschaft.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="AGRAR v.1.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sby_styles-css'  href='https://www.moderne-landwirtschaft.de/wp-content/plugins/feeds-for-youtube/css/sb-youtube.min.css?ver=1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.moderne-landwirtschaft.de/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.moderne-landwirtschaft.de/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='cff-css'  href='https://www.moderne-landwirtschaft.de/wp-content/plugins/custom-facebook-feed-pro/css/cff-style.css?ver=3.16.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-parent-css'  href='https://www.moderne-landwirtschaft.de/wp-content/themes/Divi/style.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://www.moderne-landwirtschaft.de/wp-content/themes/agrar/style.css?ver=4.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='borlabs-cookie-css'  href='https://www.moderne-landwirtschaft.de/wp-content/cache/borlabs-cookie/borlabs-cookie_1_de.css?ver=2.2.13-182' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.moderne-landwirtschaft.de/wp-includes/css/dashicons.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.moderne-landwirtschaft.de/wp-content/plugins/jetpack/css/jetpack.css?ver=9.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.6' id='gtm4wp-form-move-tracker-js'></script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/themes/agrar/agrar.js?v20201111&#038;ver=5.5.3' id='js-file-js'></script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.5.3' id='es6-promise-js'></script>
+<script type='text/javascript' id='et-core-api-spam-recaptcha-js-extra'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"forum_moderne_landwirtschaft_gewinnt_mit_der_solana_gmbh_co_kg_starkes_neues_mitglied"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.5.3' id='et-core-api-spam-recaptcha-js'></script>
+<script type='text/javascript' id='borlabs-cookie-prioritize-js-extra'>
+/* <![CDATA[ */
+var borlabsCookiePrioritized = {"domain":"agrar.miu24.de","path":"\/","version":"3","bots":"1","optInJS":{"external-media":{"google-analytics":"PCEtLSBHbG9iYWwgc2l0ZSB0YWcgKGd0YWcuanMpIC0gR29vZ2xlIEFuYWx5dGljcyAtLT4NCjxzY3JpcHQgYXN5bmMgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPVVBLTE4MjYwNTI0NS0xIj48L3NjcmlwdD4NCjxzY3JpcHQ+DQp3aW5kb3cuZGF0YUxheWVyID0gd2luZG93LmRhdGFMYXllciB8fCBbXTsNCmZ1bmN0aW9uIGd0YWcoKXtkYXRhTGF5ZXIucHVzaChhcmd1bWVudHMpO30NCmd0YWcoImpzIiwgbmV3IERhdGUoKSk7DQoNCmd0YWcoImNvbmZpZyIsICJVQS0xODI2MDUyNDUtMSIsIHsgImFub255bWl6ZV9pcCI6IHRydWUgfSk7DQo8L3NjcmlwdD4="}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie-prioritize.min.js?ver=2.2.13' id='borlabs-cookie-prioritize-js'></script>
+<link rel="https://api.w.org/" href="https://www.moderne-landwirtschaft.de/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.moderne-landwirtschaft.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.moderne-landwirtschaft.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<!-- Custom Facebook Feed JS vars -->
+<script type="text/javascript">
+var cffsiteurl = "https://www.moderne-landwirtschaft.de/wp-content/plugins";
+var cffajaxurl = "https://www.moderne-landwirtschaft.de/wp-admin/admin-ajax.php";
+var cffmetatrans = "true";
+
+var cfflinkhashtags = "false";
+</script>
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.47.4-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					if (!window.hbspt.forms.create) {
+						Object.defineProperty(window.hbspt.forms, 'create', {
+							configurable: true,
+							get: function() {
+								return hbspt._wpCreateForm;
+							},
+							set: function(value) {
+								hbspt._wpCreateForm = value;
+								while (hbspt._wpFormsQueue.length) {
+									var formDef = hbspt._wpFormsQueue.shift();
+									if (!document.currentScript) {
+										var formScriptId = 'leadin-forms-v2-js';
+										hubspot.utils.currentScript = document.getElementsById(formScriptId);
+									}
+									hbspt._wpCreateForm.call(hbspt.forms, formDef);
+								}
+							},
+						});
+					}
+				})();
+			</script>
+		
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = [];
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WTVPPPX');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><style type='text/css'>img#wpstats{display:none}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/cropped-ML_LOGO_farbig_rgb-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/cropped-ML_LOGO_farbig_rgb-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/cropped-ML_LOGO_farbig_rgb-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/cropped-ML_LOGO_farbig_rgb-favicon-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.moderne-landwirtschaft.de/wp-content/et-cache/global/et-divi-customizer-global-16090707300968.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '1732510444263141');fbq('track', 'PageView');</script><noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=1732510444263141&ev=PageView&noscript=1"/></noscript>
+    </head>
+<body class="error404 custom-background et_pb_button_helper_class et_fullwidth_secondary_nav et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter windows et_pb_gutters3 et_smooth_scroll et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+					<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-info">
+									<span id="et-info-phone">+49 30 8145555-00</span>
+				
+									<a href="mailto:info@moderne-landwirtschaft.de"><span id="et-info-email">info@moderne-landwirtschaft.de</span></a>
+				
+					<ul class="et-social-icons">
+					<li class="et-social-icon et-social-facebook">
+				<a href="https://www.facebook.com/moderne.landwirtschaft/" target="_blank"  class="icon">
+					<span>facebook</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-twitter">
+				<a href="https://twitter.com/modernelw?lang=de" target="_blank"  class="icon">
+					<span>twitter</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-instagram">
+				<a href="https://www.instagram.com/modernelandwirtschaft/" target="_blank"  class="icon">
+					<span>instagram</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-youtube">
+				<a href="https://www.youtube.com/channel/UC8wXxh1JkkMtXA4ZOsA7h6A/videos" target="_blank"  class="icon">
+					<span>youtube</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-linkedin">
+				<a href="https://www.linkedin.com/company/forum-moderne-landwirtschaft/about/" target="_blank"  class="icon">
+					<span>linkedin</span>
+				</a>
+			</li>
+				</ul>
+					</div> <!-- #et-info -->
+
+			
+				<div id="et-secondary-menu">
+				<div class="et_duplicate_social_icons">
+									<ul class="et-social-icons">
+					<li class="et-social-icon et-social-facebook">
+				<a href="https://www.facebook.com/moderne.landwirtschaft/" target="_blank"  class="icon">
+					<span>facebook</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-twitter">
+				<a href="https://twitter.com/modernelw?lang=de" target="_blank"  class="icon">
+					<span>twitter</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-instagram">
+				<a href="https://www.instagram.com/modernelandwirtschaft/" target="_blank"  class="icon">
+					<span>instagram</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-youtube">
+				<a href="https://www.youtube.com/channel/UC8wXxh1JkkMtXA4ZOsA7h6A/videos" target="_blank"  class="icon">
+					<span>youtube</span>
+				</a>
+			</li>
+						<li class="et-social-icon et-social-linkedin">
+				<a href="https://www.linkedin.com/company/forum-moderne-landwirtschaft/about/" target="_blank"  class="icon">
+					<span>linkedin</span>
+				</a>
+			</li>
+				</ul>
+	
+							</div><ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-135"><a href="https://www.moderne-landwirtschaft.de/newsletter/">Newsletter</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="https://www.moderne-landwirtschaft.de/unterstuetzen/">Unterstützen</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://www.moderne-landwirtschaft.de/kontakt/">Kontakt</a></li>
+</ul>				</div> <!-- #et-secondary-menu -->
+
+			</div> <!-- .container -->
+		</div> <!-- #top-header -->
+		
+	
+			<header id="main-header" data-height-onload="70">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://www.moderne-landwirtschaft.de/">
+						<img src="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/FML_Logo_RGB.png" alt="Moderne Landwirtschaft " id="logo" data-height-percentage="90" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="70" data-fixed-height="70">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://www.moderne-landwirtschaft.de/ueber-uns/">Über uns</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://www.moderne-landwirtschaft.de/aktuelles/">Themen</a></li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://www.moderne-landwirtschaft.de/agrarscouts/">AgrarScouts</a></li>
+<li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.moderne-landwirtschaft.de/infomobile/">InfoMobile</a></li>
+<li id="menu-item-1534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1534"><a href="https://www.moderne-landwirtschaft.de/presse/">Presse</a></li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Seite wählen</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://www.moderne-landwirtschaft.de/">
+					<input type="search" class="et-search-field" placeholder="Suchen &hellip;" value="" name="s" title="Suchen nach:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+				<article id="post-0" class="et_pb_post not_found post-2530 post type-post status-publish format-standard has-post-thumbnail hentry category-forum-moderne-landwirtschaft category-presse tag-kartoffelzucht tag-neues-mitglied tag-solana">
+					<div class="entry">
+<!--If no results are found-->
+	<h1 class="not-found-title">Keine Ergebnisse gefunden</h1>
+	<p>Die angefragte Seite konnte nicht gefunden werden. Verfeinern Sie Ihre Suche oder verwenden Sie die Navigation oben, um den Beitrag zu finden.</p>
+</div>
+<!--End if no results are found-->				</article> <!-- .et_pb_post -->
+			</div> <!-- #left-area -->
+
+					</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="et-footer-nav">
+					<div class="container">
+						<ul id="menu-footer" class="bottom-nav"><li id="menu-item-1535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1535"><a href="https://www.moderne-landwirtschaft.de/kontakt/">Kontakt</a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://www.moderne-landwirtschaft.de/impressum/">Impressum</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-143"><a href="https://www.moderne-landwirtschaft.de/datenschutz/">Datenschutz</a></li>
+</ul>					</div>
+				</div> <!-- #et-footer-nav -->
+
+			
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<p id="footer-info">Copyright © 2020 <a href="#" target="_blank">Forum Moderne Landwirtschaft e.V.</a><span class="dce-credits-separator">|</span>Developed by <a href="https://www.miu24.de" target="_blank">MIU24® KG</a><span class="dce-credits-separator">|</span>Proudly powered by <a href="https://www.workshopwerk.de" target="_blank">Workshopwerk®</a></p>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WTVPPPX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- YouTube Feed JS -->
+<script type="text/javascript">
+
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.moderne-landwirtschaft.de/wp-admin/admin-ajax.php";
+</script>
+<!--googleoff: all--><div data-nosnippet><script id="BorlabsCookieBoxWrap" type="text/template"><div
+    id="BorlabsCookieBox"
+    class="BorlabsCookie"
+    role="dialog"
+    aria-labelledby="CookieBoxTextHeadline"
+    aria-describedby="CookieBoxTextDescription"
+    aria-modal="true"
+>
+    <div class="top-center" style="display: none;">
+        <div class="_brlbs-bar-wrap">
+            <div class="_brlbs-bar _brlbs-bar-advanced">
+                <div class="cookie-box">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-12 col-sm-9">
+                                <div class="row">
+                                                                            <div class="col-2 text-center _brlbs-no-padding-right">
+                                            <img
+                                                class="cookie-logo"
+                                                src="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/ML_LOGO_farbig_rgb-favicon.png"
+                                                srcset="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/ML_LOGO_farbig_rgb-favicon.png, https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/ML_LOGO_farbig_rgb-favicon.png 2x"
+                                                alt="Datenschutzeinstellungen"
+                                                aria-hidden="true"
+                                            >
+                                        </div>
+                                    
+                                    <div class="col-10">
+                                        <span role="heading" aria-level="3" class="_brlbs-h3" id="CookieBoxTextHeadline">
+                                            Datenschutzeinstellungen                                        </span>
+                                        <p id="CookieBoxTextDescription">
+                                            Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.                                        </p>
+                                    </div>
+                                </div>
+
+                                                                    <ul
+                                         class="show-cookie-logo"                                    >
+                                                                                                                                    <li>
+                                                    <label class="_brlbs-checkbox">
+                                                        Essenziell                                                        <input
+                                                            id="checkbox-essential"
+                                                            tabindex="0"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="essential"
+                                                             checked                                                             disabled                                                            data-borlabs-cookie-checkbox
+                                                        >
+                                                        <span class="_brlbs-checkbox-indicator"></span>
+                                                    </label>
+                                                </li>
+                                                                                                                                                                                                                                                                                                                                                        <li>
+                                                    <label class="_brlbs-checkbox">
+                                                        Externe Medien                                                        <input
+                                                            id="checkbox-external-media"
+                                                            tabindex="0"
+                                                            type="checkbox"
+                                                            name="cookieGroup[]"
+                                                            value="external-media"
+                                                             checked                                                                                                                        data-borlabs-cookie-checkbox
+                                                        >
+                                                        <span class="_brlbs-checkbox-indicator"></span>
+                                                    </label>
+                                                </li>
+                                                                                                                        </ul>
+                                                            </div>
+
+                            <div class="col-12 col-sm-3">
+                                                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                    </p>
+
+                                    <p class="_brlbs-accept">
+                                        <a
+                                            href="#"
+                                            tabindex="0"
+                                            role="button"
+                                            id="CookieBoxSaveButton"
+                                            class="_brlbs-btn _brlbs-cursor"
+                                            data-cookie-accept
+                                        >
+                                            Speichern                                        </a>
+                                    </p>
+                                
+                                
+                                <p class="_brlbs-manage">
+                                    <a
+                                        href="#"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-cursor"
+                                        data-cookie-individual
+                                    >
+                                        Individuelle Datenschutzeinstellungen                                    </a>
+                                </p>
+
+                                <p class="_brlbs-legal">
+                                    <a
+                                        href="#"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-cursor"
+                                        data-cookie-individual
+                                    >
+                                        Cookie-Details                                    </a>
+
+                                    
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div
+    class="cookie-preference"
+    aria-hidden="true"
+    role="dialog"
+    aria-describedby="CookiePrefDescription"
+    aria-modal="true"
+>
+    <div class="container not-visible">
+        <div class="row no-gutters">
+            <div class="col-12">
+                <div class="row no-gutters align-items-top">
+                                            <div class="col-2">
+                            <img
+                                class="cookie-logo"
+                                src="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/ML_LOGO_farbig_rgb-favicon.png"
+                                srcset="https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/ML_LOGO_farbig_rgb-favicon.png, https://www.moderne-landwirtschaft.de/wp-content/uploads/2020/10/ML_LOGO_farbig_rgb-favicon.png 2x"
+                                alt="Datenschutzeinstellungen"
+                            >
+                        </div>
+                    
+                    <div class="col-10">
+                        <span role="heading" aria-level="3" class="_brlbs-h3">Datenschutzeinstellungen</span>
+
+                        <p id="CookiePrefDescription">
+                            Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Einwilligung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.                        </p>
+
+                        <div class="row no-gutters align-items-center">
+                            <div class="col-12 col-sm-7">
+                                <p class="_brlbs-accept">
+                                                                            <a
+                                            href="#"
+                                            class="_brlbs-btn _brlbs-btn-accept-all _brlbs-cursor"
+                                            tabindex="0"
+                                            role="button"
+                                            data-cookie-accept-all
+                                        >
+                                            Alle akzeptieren                                        </a>
+                                    
+                                    <a
+                                        href="#"
+                                        id="CookiePrefSave"
+                                        tabindex="0"
+                                        role="button"
+                                        class="_brlbs-btn _brlbs-cursor"
+                                        data-cookie-accept
+                                    >
+                                        Speichern                                    </a>
+                                </p>
+                            </div>
+
+                            <div class="col-12 col-sm-5">
+                                <p class="_brlbs-refuse">
+                                    <a
+                                        href="#"
+                                        class="_brlbs-cursor"
+                                        tabindex="0"
+                                        role="button"
+                                        data-cookie-back
+                                    >
+                                        Zurück                                    </a>
+
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div data-cookie-accordion>
+                                                                                                        <div class="bcac-item">
+                                    <div class="d-flex flex-row">
+                                        <label for="borlabs-cookie-group-essential" class="w-75">
+                                            <span role="heading" aria-level="4" class="_brlbs-h4">Essenziell (2)</span >
+                                        </label>
+
+                                        <div class="w-25 text-right">
+                                                                                    </div>
+                                    </div>
+
+                                    <div class="d-block">
+                                        <p>Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.</p>
+
+                                        <p class="text-center">
+                                            <a
+                                                href="#"
+                                                class="_brlbs-cursor d-block"
+                                                tabindex="0"
+                                                role="button"
+                                                data-cookie-accordion-target="essential"
+                                            >
+                                                <span data-cookie-accordion-status="show">
+                                                    Cookie-Informationen anzeigen                                                </span>
+
+                                                <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                    Cookie-Informationen ausblenden                                                </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class="borlabs-hide"
+                                        data-cookie-accordion-parent="essential"
+                                    >
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-borlabs-cookie">
+                                                            Borlabs Cookie                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Eigentümer dieser Website</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Speichert die Einstellungen der Besucher, die in der Cookie Box von Borlabs Cookie ausgewählt wurden.</td>
+                                                    </tr>
+                                                
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>borlabs-cookie</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>1 Jahr</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-hubspot">
+                                                            HubSpot                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>HubSpot Inc.</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>HubSpot ist ein Verwaltungsdienst für Benutzerdatenbanken bereitgestellt von HubSpot, Inc. Wir nutzen HubSpot auf dieser Website für unsere Online Marketing-Aktivitäten.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://legal.hubspot.com/privacy-policy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://legal.hubspot.com/privacy-policy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>*.hubspot.com, hubspot-avatars.s3.amazonaws.com, hubspot-realtime.ably.io, hubspot-rest.ably.io, js.hs-scripts.com</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>__hs_opt_out, __hs_d_not_track, hs_ab_test, hs-messages-is-open, hs-messages-hide-welcome-message, __hstc, hubspotutk, __hssc, __hssrc, messagesUtk</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>Sitzung / 30 Minuten / 1 Tag / 1 Jahr / 13 Monate</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                                                                                                                                                        <div class="bcac-item">
+                                    <div class="d-flex flex-row">
+                                        <label for="borlabs-cookie-group-external-media" class="w-75">
+                                            <span role="heading" aria-level="4" class="_brlbs-h4">Externe Medien (8)</span >
+                                        </label>
+
+                                        <div class="w-25 text-right">
+                                                                                            <label class="_brlbs-btn-switch">
+                                                    <input
+                                                        tabindex="0"
+                                                        id="borlabs-cookie-group-external-media"
+                                                        type="checkbox"
+                                                        name="cookieGroup[]"
+                                                        value="external-media"
+                                                         checked                                                        data-borlabs-cookie-switch
+                                                    />
+                                                    <span class="_brlbs-slider"></span>
+                                                    <span
+                                                        class="_brlbs-btn-switch-status"
+                                                        data-active="An"
+                                                        data-inactive="Aus">
+                                                    </span>
+                                                </label>
+                                                                                    </div>
+                                    </div>
+
+                                    <div class="d-block">
+                                        <p>Inhalte von Videoplattformen und Social-Media-Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Einwilligung mehr.</p>
+
+                                        <p class="text-center">
+                                            <a
+                                                href="#"
+                                                class="_brlbs-cursor d-block"
+                                                tabindex="0"
+                                                role="button"
+                                                data-cookie-accordion-target="external-media"
+                                            >
+                                                <span data-cookie-accordion-status="show">
+                                                    Cookie-Informationen anzeigen                                                </span>
+
+                                                <span data-cookie-accordion-status="hide" class="borlabs-hide">
+                                                    Cookie-Informationen ausblenden                                                </span>
+                                            </a>
+                                        </p>
+                                    </div>
+
+                                    <div
+                                        class="borlabs-hide"
+                                        data-cookie-accordion-parent="external-media"
+                                    >
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-facebook"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="facebook"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-facebook">
+                                                            Facebook                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Facebook</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird verwendet, um Facebook-Inhalte zu entsperren.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://www.facebook.com/privacy/explanation"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://www.facebook.com/privacy/explanation                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>.facebook.com</td>
+                                                    </tr>
+                                                
+                                                
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-google-analytics"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="google-analytics"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-google-analytics">
+                                                            Google Analytics                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Google LLC</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Cookie von Google für Website-Analysen. Erzeugt statistische Daten darüber, wie der Besucher die Website nutzt.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://policies.google.com/privacy?hl=de"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy?hl=de                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>_ga,_gat,_gid</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>2 Jahre</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-googlemaps"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="googlemaps"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-googlemaps">
+                                                            Google Maps                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Google</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird zum Entsperren von Google Maps-Inhalten verwendet.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://policies.google.com/privacy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>.google.com</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>NID</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>6 Monate</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-instagram"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="instagram"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-instagram">
+                                                            Instagram                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Facebook</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird verwendet, um Instagram-Inhalte zu entsperren.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://www.instagram.com/legal/privacy/"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://www.instagram.com/legal/privacy/                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>.instagram.com</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>pigeon_state</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>Sitzung</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-openstreetmap"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="openstreetmap"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-openstreetmap">
+                                                            OpenStreetMap                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>OpenStreetMap Foundation</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird verwendet, um OpenStreetMap-Inhalte zu entsperren.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://wiki.osmfoundation.org/wiki/Privacy_Policy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://wiki.osmfoundation.org/wiki/Privacy_Policy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>.openstreetmap.org</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>_osm_location, _osm_session, _osm_totp_token, _osm_welcome, _pk_id., _pk_ref., _pk_ses., qos_token</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>1-10 Jahre</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-twitter"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="twitter"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-twitter">
+                                                            Twitter                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Twitter</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird verwendet, um Twitter-Inhalte zu entsperren.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://twitter.com/privacy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://twitter.com/privacy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>.twimg.com, .twitter.com</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>__widgetsettings, local_storage_support_test</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>Unbegrenzt</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-vimeo"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="vimeo"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-vimeo">
+                                                            Vimeo                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>Vimeo</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird verwendet, um Vimeo-Inhalte zu entsperren.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://vimeo.com/privacy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://vimeo.com/privacy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>player.vimeo.com</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>vuid</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>2 Jahre</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                                    <table>
+                                                                                                    <tr>
+                                                        <th>Akzeptieren</th>
+                                                        <td>
+                                                            <label class="_brlbs-btn-switch _brlbs-btn-switch--textRight">
+                                                                <input
+                                                                    id="borlabs-cookie-youtube"
+                                                                    tabindex="0"
+                                                                    type="checkbox" data-cookie-group="external-media"
+                                                                    name="cookies[external-media][]"
+                                                                    value="youtube"
+                                                                     checked                                                                    data-borlabs-cookie-switch
+                                                                />
+
+                                                                <span class="_brlbs-slider"></span>
+
+                                                                <span
+                                                                    class="_brlbs-btn-switch-status"
+                                                                    data-active="An"
+                                                                    data-inactive="Aus"
+                                                                    aria-hidden="true">
+                                                                </span>
+                                                            </label>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                <tr>
+                                                    <th>Name</th>
+                                                    <td>
+                                                        <label for="borlabs-cookie-youtube">
+                                                            YouTube                                                        </label>
+                                                    </td>
+                                                </tr>
+
+                                                <tr>
+                                                    <th>Anbieter</th>
+                                                    <td>YouTube</td>
+                                                </tr>
+
+                                                                                                    <tr>
+                                                        <th>Zweck</th>
+                                                        <td>Wird verwendet, um YouTube-Inhalte zu entsperren.</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Datenschutzerklärung</th>
+                                                        <td class="_brlbs-pp-url">
+                                                            <a
+                                                                href="https://policies.google.com/privacy"
+                                                                target="_blank"
+                                                                rel="nofollow noopener noreferrer"
+                                                            >
+                                                                https://policies.google.com/privacy                                                            </a>
+                                                        </td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Host(s)</th>
+                                                        <td>google.com</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Name</th>
+                                                        <td>NID</td>
+                                                    </tr>
+                                                
+                                                                                                    <tr>
+                                                        <th>Cookie Laufzeit</th>
+                                                        <td>6 Monate</td>
+                                                    </tr>
+                                                                                            </table>
+                                                                            </div>
+                                </div>
+                                                                                        </div>
+
+                <div class="d-flex justify-content-between">
+                    <p class="_brlbs-branding flex-fill">
+                                            </p>
+
+                    <p class="_brlbs-legal flex-fill">
+                        
+                        
+                                            </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>
+</script></div><!--googleon: all--><link rel='stylesheet' id='et-builder-googlefonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,regular,500,600,700,800,900|Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&#038;subset=latin-ext,greek,greek-ext,vietnamese,cyrillic,latin,cyrillic-ext&#038;display=swap' type='text/css' media='all' />
+<script type='text/javascript' id='cffscripts-js-extra'>
+/* <![CDATA[ */
+var cffOptions = {"placeholder":"https:\/\/www.moderne-landwirtschaft.de\/wp-content\/plugins\/custom-facebook-feed-pro\/img\/placeholder.png","resized_url":"https:\/\/www.moderne-landwirtschaft.de\/wp-content\/uploads\/sb-facebook-feed-images\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/plugins/custom-facebook-feed-pro/js/cff-scripts.js?ver=3.16.1' id='cffscripts-js'></script>
+<script type='text/javascript' id='leadin-script-loader-js-js-extra'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"other","leadinPluginVersion":"7.47.4"};
+/* ]]> */
+</script>
+<script async defer id="hs-script-loader" type='text/javascript' src='https://js.hs-scripts.com/7104961.js?integration=WordPress' id='leadin-script-loader-js-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Vorherige","next":"N\u00e4chste"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.moderne-landwirtschaft.de\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.moderne-landwirtschaft.de\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.moderne-landwirtschaft.de\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"6c574a0fca","subscription_failed":"Bitte \u00fcberpr\u00fcfen Sie die Felder unten aus, um sicherzustellen, dass Sie die richtigen Informationen eingegeben.","et_ab_log_nonce":"8941365026","fill_message":"Bitte f\u00fcllen Sie die folgenden Felder aus:","contact_error_message":"Bitte folgende Fehler beheben:","invalid":"Ung\u00fcltige E-Mail","captcha":"Captcha","prev":"Vorherige","previous":"Vorherige","next":"Weiter","wrong_captcha":"Sie haben die falsche Zahl im Captcha eingegeben.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"2530","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.6' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.6' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' id='borlabs-cookie-js-extra'>
+/* <![CDATA[ */
+var borlabsCookieConfig = {"ajaxURL":"https:\/\/www.moderne-landwirtschaft.de\/wp-admin\/admin-ajax.php","language":"de","animation":"1","animationDelay":"1","animationIn":"fadeInDown","animationOut":"flipOutX","blockContent":"1","boxLayout":"bar","boxLayoutAdvanced":"1","automaticCookieDomainAndPath":"1","cookieDomain":"agrar.miu24.de","cookiePath":"\/","cookieLifetime":"365","crossDomainCookie":[],"cookieBeforeConsent":"1","cookiesForBots":"1","cookieVersion":"3","hideCookieBoxOnPages":[],"respectDoNotTrack":"","reloadAfterConsent":"1","showCookieBox":"1","cookieBoxIntegration":"javascript","ignorePreSelectStatus":"1","cookies":{"essential":["borlabs-cookie","hubspot"],"statistics":[],"marketing":[],"external-media":["facebook","google-analytics","googlemaps","instagram","openstreetmap","twitter","vimeo","youtube"]}};
+var borlabsCookieCookies = {"essential":{"borlabs-cookie":{"cookieNameList":{"borlabs-cookie":"borlabs-cookie"},"settings":{"blockCookiesBeforeConsent":"0"}},"hubspot":{"cookieNameList":{"__hs_opt_out":"__hs_opt_out","__hs_d_not_track":"__hs_d_not_track","hs_ab_test":"hs_ab_test","hs-messages-is-open":"hs-messages-is-open","hs-messages-hide-welcome-message":"hs-messages-hide-welcome-message","__hstc":"__hstc","hubspotutk":"hubspotutk","__hssc":"__hssc","__hssrc":"__hssrc","messagesUtk":"messagesUtk"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"0","hubId":"7104961"},"optInJS":"PCEtLSBTdGFydCBvZiBIdWJTcG90IEVtYmVkIENvZGUgLS0+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgaWQ9ImhzLXNjcmlwdC1sb2FkZXIiIHNyYz0iLy9qcy5ocy1zY3JpcHRzLmNvbS83MTA0OTYxLmpzIj48L3NjcmlwdD4NCjwhLS0gRW5kIG9mIEh1YlNwb3QgRW1iZWQgQ29kZSAtLT4=","optOutJS":""}},"external-media":{"facebook":{"cookieNameList":[],"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImZhY2Vib29rIik7IH08L3NjcmlwdD4=","optOutJS":""},"google-analytics":{"cookieNameList":{"_ga":"_ga","_gat":"_gat","_gid":"_gid"},"settings":{"blockCookiesBeforeConsent":"0","prioritize":"1","trackingId":"UA-182605245-1"},"optInJS":"","optOutJS":""},"googlemaps":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImdvb2dsZW1hcHMiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"instagram":{"cookieNameList":{"pigeon_state":"pigeon_state"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoImluc3RhZ3JhbSIpOyB9PC9zY3JpcHQ+","optOutJS":""},"openstreetmap":{"cookieNameList":{"_osm_location":"_osm_location","_osm_session":"_osm_session","_osm_totp_token":"_osm_totp_token","_osm_welcome":"_osm_welcome","_pk_id.":"_pk_id.","_pk_ref.":"_pk_ref.","_pk_ses.":"_pk_ses.","qos_token":"qos_token"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoIm9wZW5zdHJlZXRtYXAiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"twitter":{"cookieNameList":{"__widgetsettings":"__widgetsettings","local_storage_support_test":"local_storage_support_test"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInR3aXR0ZXIiKTsgfTwvc2NyaXB0Pg==","optOutJS":""},"vimeo":{"cookieNameList":{"vuid":"vuid"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInZpbWVvIik7IH08L3NjcmlwdD4=","optOutJS":""},"youtube":{"cookieNameList":{"NID":"NID"},"settings":{"blockCookiesBeforeConsent":"0"},"optInJS":"PHNjcmlwdD5pZih0eXBlb2Ygd2luZG93LkJvcmxhYnNDb29raWUgPT09ICJvYmplY3QiKSB7IHdpbmRvdy5Cb3JsYWJzQ29va2llLnVuYmxvY2tDb250ZW50SWQoInlvdXR1YmUiKTsgfTwvc2NyaXB0Pg==","optOutJS":""}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.moderne-landwirtschaft.de/wp-content/plugins/borlabs-cookie/javascript/borlabs-cookie.min.js?ver=2.2.13' id='borlabs-cookie-js'></script>
+<script type='text/javascript' id='borlabs-cookie-js-after'>
+document.addEventListener("DOMContentLoaded", function (e) {
+var borlabsCookieContentBlocker = {"default": {"id": "default","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"googlemaps": {"id": "googlemaps","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"instagram": {"id": "instagram","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) { if (typeof instgrm === "object") { instgrm.Embeds.process(); } },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"openstreetmap": {"id": "openstreetmap","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"twitter": {"id": "twitter","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false}},"vimeo": {"id": "vimeo","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"saveThumbnails":false,"videoWrapper":false}},"youtube": {"id": "youtube","global": function (contentBlockerData) {  },"init": function (el, contentBlockerData) {  },"settings": {"executeGlobalCodeBeforeUnblocking":false,"changeURLToNoCookie":true,"saveThumbnails":false,"thumbnailQuality":"maxresdefault","videoWrapper":false}}};
+    var BorlabsCookieInitCheck = function () {
+
+    if (typeof window.BorlabsCookie === "object" && typeof window.jQuery === "function") {
+
+        if (typeof borlabsCookiePrioritized !== "object") {
+            borlabsCookiePrioritized = { optInJS: {} };
+        }
+
+        window.BorlabsCookie.init(borlabsCookieConfig, borlabsCookieCookies, borlabsCookieContentBlocker, borlabsCookiePrioritized.optInJS);
+    } else {
+        window.setTimeout(BorlabsCookieInitCheck, 50);
+    }
+};
+
+BorlabsCookieInitCheck();});
+</script>
+
+<!-- Child theme custom CSS created by Divi Children Engine - https://divi4u.com -->
+<style type="text/css" media="screen">
+ #main-header {box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none;}
+ #et-secondary-nav li:last-child {margin-right: 0 !important;}
+@media only screen and ( min-width: 1100px ) {
+ #footer-widgets .footer-widget {width:21.25%; margin-right: 5%;}
+ #footer-widgets .footer-widget:nth-child(4) {margin-right: 0;}
+ #footer-widgets .footer-widget .et_pb_widget { width:100%}
+}
+ .footer-widget li:before {border-color:#89acce;}
+ .dce-credits-separator {padding: 0 3px;}
+ #footer-info a {color:#bbc967;}
+ #sidebar h4.widgettitle {font-size: 24px; color: #596d64; line-height: 1em; font-weight: 500; text-transform: none; font-style: normal;}
+ #sidebar li, #sidebar .textwidget, #sidebar li a {font-size:17px; color: #596d64; line-height: 1.2em;}
+ #sidebar li, #sidebar .textwidget, #sidebar li a {font-size:17px; color: #596d64;}
+ #sidebar li a:hover, #sidebar .textwidget a:hover {color:#82c0c7!important;}
+ .single .dce-postmeta-separator {padding: 0 3px; color: #666; }
+</style>
+<!-- End Child theme custom CSS -->
+
+<script type='text/javascript' src='https://stats.wp.com/e-202053.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.1',blog:'185662994',post:'0',tz:'1',srv:'www.moderne-landwirtschaft.de'} ]);
+	_stq.push([ 'clickTrackerInit', '185662994', '0' ]);
+</script>
+</body>
+</html>
